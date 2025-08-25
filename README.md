@@ -20,14 +20,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+
 ---
 
 ## 📊 GitHub Analytics:
-![Santoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshiRB00100&show_icons=true&theme=radical)
+![Santoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantoshiRB00100&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshiRB00100&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshiRB00100&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SantoshiRB00100&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=SantoshiRB00100&theme=radical&hide_border=true)
+
 
 ---
 
